@@ -6,3 +6,8 @@
 
 <hr> 
 
+1-4 DAX 수식
+수식 입력을 통한 새로운 열 생성
+<img src="https://github.com/user-attachments/assets/9f9e515c-e2f6-4462-8163-4462e1d5beac" alt="Image Description" width="800" />
+
+
