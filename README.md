@@ -30,6 +30,12 @@
 <br>
 <hr> 
 
+2-3다양한 시각적 개체 다루기
+<img src="https://github.com/user-attachments/assets/c3d506c0-d10b-4fa6-ad8e-be80b3803876" alt="Image Description" width="800" />
+<br>
+<hr> 
+
+
 
 
 
