@@ -16,6 +16,11 @@
 
 <img src="https://github.com/user-attachments/assets/d3ce5290-7b93-4b83-a4b8-01713c81c271" alt="Image Description" width="800" />
 
+2-2디자인 시각화 요소 구현
+<img src="https://github.com/user-attachments/assets/76013e05-8541-4c0a-9812-bcd1039f7931" alt="Image Description" width="800" />
+<hr> 
+
+
 
 
 
