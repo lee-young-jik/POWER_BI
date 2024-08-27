@@ -40,12 +40,14 @@
 <img src="https://github.com/user-attachments/assets/c22b45f1-fd6e-4b3d-9193-c54d595cbeb6" alt="Image Description" width="800" />
 <br>
 <hr>
+<hr>
 
 
 3-5 매개변수활용
 
 
-<img src="(https://github.com/user-attachments/assets/39a19432-1a4b-44f4-a9f7-a623623f82d7" alt="Image Description" width="800" />
+
+<img src="https://github.com/user-attachments/assets/39a19432-1a4b-44f4-a9f7-a623623f82d7" alt="Image Description" width="800" />
 <br>
 <hr>
 
