@@ -51,6 +51,15 @@
 <br>
 <hr>
 
+모의문제 A
+문제3
+
+
+<img src="https://github.com/user-attachments/assets/7b8ac5c1-8962-406c-8919-85e314f6ae93" alt="Image Description" width="800" />
+<br>
+<hr>
+
+
 
 
 
