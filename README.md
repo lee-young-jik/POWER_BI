@@ -15,15 +15,6 @@
 <hr> 
 
 
-
-2-1 보고서레이아웃구성하기
-
-<img src="https://github.com/user-attachments/assets/d3ce5290-7b93-4b83-a4b8-01713c81c271" alt="Image Description" width="800" />
-<br>
-<hr> 
-
-
-
 2-2디자인 시각화 요소 구현
 
 <img src="https://github.com/user-attachments/assets/76013e05-8541-4c0a-9812-bcd1039f7931" alt="Image Description" width="800" />
@@ -56,6 +47,14 @@
 
 
 <img src="https://github.com/user-attachments/assets/7b8ac5c1-8962-406c-8919-85e314f6ae93" alt="Image Description" width="800" />
+<br>
+<hr>
+
+
+모의문제 B
+
+
+<img src="https://github.com/user-attachments/assets/88fd8f15-8876-4ea1-b723-0ec5e9311e11" alt="Image Description" width="800" />
 <br>
 <hr>
 
