@@ -1,5 +1,16 @@
 # POWER_BI
 
+모의문제 B
+
+
+<img src="https://github.com/user-attachments/assets/88fd8f15-8876-4ea1-b723-0ec5e9311e11" alt="Image Description" width="800" />
+<br>
+<hr>
+
+<img src="https://github.com/user-attachments/assets/80cff14a-cc09-403c-a0ab-516407d27dcc" alt="Image Description" width="800" />
+<br>
+<hr>
+
 1-3 중 관계 설정 
 
 <img src="https://github.com/user-attachments/assets/64b60047-315d-4591-995c-7e783b6061ae" alt="Image Description" width="800" />
@@ -50,17 +61,6 @@
 <br>
 <hr>
 
-
-모의문제 B
-
-
-<img src="https://github.com/user-attachments/assets/88fd8f15-8876-4ea1-b723-0ec5e9311e11" alt="Image Description" width="800" />
-<br>
-<hr>
-
-<img src="https://github.com/user-attachments/assets/80cff14a-cc09-403c-a0ab-516407d27dcc" alt="Image Description" width="800" />
-<br>
-<hr>
 
 
 
