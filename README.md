@@ -1,4 +1,11 @@
 # POWER_BI
+기출 1
+
+<img src="https://github.com/user-attachments/assets/c7eb924f-2c38-40ce-8cb0-a2bf9ff3e33" alt="Image Description" width="800" />
+<br>
+<hr>
+
+
 
 모의문제 B
 
