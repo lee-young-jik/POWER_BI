@@ -1,4 +1,12 @@
 # POWER_BI
+기출 2
+
+<img src="https://github.com/user-attachments/assets/d12d378d-c0cc-4ed7-b19c-94b2f6e04720" alt="Image Description" width="800" />
+<br>
+<hr>
+
+
+
 기출 1
 
 <img src="https://github.com/user-attachments/assets/362d02e8-b8b8-4e30-a39c-5d15b1ea8ae9" alt="Image Description" width="800" />
